@@ -1,0 +1,11 @@
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\bin\Debug\Color Picker.xml
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\obj\Debug\Color Picker.vbprojResolveAssemblyReference.cache
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\obj\Debug\Color_Picker.Form1.resources
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\obj\Debug\Color_Picker.Resources.resources
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\obj\Debug\Color Picker.vbproj.GenerateResource.Cache
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\obj\Debug\Color Picker.xml
+C:\Users\Students\Documents\Visual Studio 2015\Projects\Mukesh Mahato\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
