@@ -1,0 +1,12 @@
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\bin\Debug\DigitalWatch.exe.config
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\bin\Debug\DigitalWatch.exe
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\bin\Debug\DigitalWatch.pdb
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\bin\Debug\DigitalWatch.xml
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\obj\Debug\DigitalWatch.Form1.resources
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\obj\Debug\DigitalWatch.Resources.resources
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\obj\Debug\DigitalWatch.vbproj.GenerateResource.Cache
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\obj\Debug\DigitalWatch.exe
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\obj\Debug\DigitalWatch.xml
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\obj\Debug\DigitalWatch.pdb
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\obj\Debug\DigitalWatch.Form2.resources
+C:\Users\Students\Documents\Visual Studio 2015\Projects\DigitalWatch\DigitalWatch\obj\Debug\DigitalWatch.vbprojResolveAssemblyReference.cache
