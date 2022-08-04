@@ -1,0 +1,11 @@
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\bin\Debug\dialoge Box.exe.config
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\bin\Debug\dialoge Box.exe
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\bin\Debug\dialoge Box.pdb
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\bin\Debug\dialoge Box.xml
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\obj\Debug\dialoge Box.vbprojResolveAssemblyReference.cache
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\obj\Debug\dialoge_Box.Form1.resources
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\obj\Debug\dialoge_Box.Resources.resources
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\obj\Debug\dialoge Box.vbproj.GenerateResource.Cache
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\obj\Debug\dialoge Box.exe
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\obj\Debug\dialoge Box.xml
+C:\Users\Students\Documents\Visual Studio 2015\Projects\dialoge Box\dialoge Box\obj\Debug\dialoge Box.pdb
