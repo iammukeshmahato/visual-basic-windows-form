@@ -1,0 +1,11 @@
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\obj\Debug\byVal_byRef.Resources.resources
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\obj\Debug\byVal byRef.vbproj.GenerateResource.cache
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\obj\Debug\byVal byRef.vbproj.CoreCompileInputs.cache
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\bin\Debug\byVal byRef.exe.config
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\bin\Debug\byVal byRef.exe
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\bin\Debug\byVal byRef.pdb
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\bin\Debug\byVal byRef.xml
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\obj\Debug\byVal byRef.exe
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\obj\Debug\byVal byRef.xml
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\obj\Debug\byVal byRef.pdb
+C:\Users\mukeshmahato\source\repos\byVal byRef\byVal byRef\obj\Debug\byVal byRef.vbproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\bin\Debug\Recursion.xml
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\obj\Debug\Recursion.Form1.resources
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\obj\Debug\Recursion.Resources.resources
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\obj\Debug\Recursion.vbproj.GenerateResource.cache
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\obj\Debug\Recursion.vbproj.CoreCompileInputs.cache
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\obj\Debug\Recursion.xml
+C:\Users\mukeshmahato\source\repos\Recursion\Recursion\obj\Debug\Recursion.pdb

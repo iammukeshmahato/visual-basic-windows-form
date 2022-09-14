@@ -1,0 +1,12 @@
+C:\Users\mukeshmahato\source\repos\Collection\Collection\bin\Debug\Collection.exe.config
+C:\Users\mukeshmahato\source\repos\Collection\Collection\bin\Debug\Collection.exe
+C:\Users\mukeshmahato\source\repos\Collection\Collection\bin\Debug\Collection.pdb
+C:\Users\mukeshmahato\source\repos\Collection\Collection\bin\Debug\Collection.xml
+C:\Users\mukeshmahato\source\repos\Collection\Collection\obj\Debug\Collection.Form1.resources
+C:\Users\mukeshmahato\source\repos\Collection\Collection\obj\Debug\Collection.Resources.resources
+C:\Users\mukeshmahato\source\repos\Collection\Collection\obj\Debug\Collection.vbproj.GenerateResource.cache
+C:\Users\mukeshmahato\source\repos\Collection\Collection\obj\Debug\Collection.vbproj.CoreCompileInputs.cache
+C:\Users\mukeshmahato\source\repos\Collection\Collection\obj\Debug\Collection.exe
+C:\Users\mukeshmahato\source\repos\Collection\Collection\obj\Debug\Collection.xml
+C:\Users\mukeshmahato\source\repos\Collection\Collection\obj\Debug\Collection.pdb
+C:\Users\mukeshmahato\source\repos\Collection\Collection\obj\Debug\Collection.vbproj.AssemblyReference.cache
