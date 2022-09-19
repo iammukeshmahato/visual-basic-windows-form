@@ -9,3 +9,15 @@ C:\Users\Students\Documents\Visual Studio 2015\Projects\Graphics in vb\Graphics 
 C:\Users\Students\Documents\Visual Studio 2015\Projects\Graphics in vb\Graphics in vb\obj\Debug\Graphics in vb.exe
 C:\Users\Students\Documents\Visual Studio 2015\Projects\Graphics in vb\Graphics in vb\obj\Debug\Graphics in vb.xml
 C:\Users\Students\Documents\Visual Studio 2015\Projects\Graphics in vb\Graphics in vb\obj\Debug\Graphics in vb.pdb
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\bin\Debug\Graphics in vb.exe.config
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\bin\Debug\Graphics in vb.exe
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\bin\Debug\Graphics in vb.pdb
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\bin\Debug\Graphics in vb.xml
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\obj\Debug\Graphics in vb.vbproj.AssemblyReference.cache
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\obj\Debug\Graphics_in_vb.Form1.resources
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\obj\Debug\Graphics_in_vb.Resources.resources
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\obj\Debug\Graphics in vb.vbproj.GenerateResource.cache
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\obj\Debug\Graphics in vb.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\obj\Debug\Graphics in vb.exe
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\obj\Debug\Graphics in vb.xml
+\\Mac\Home\Desktop\visual-basic-windows-form\Graphics in vb\Graphics in vb\obj\Debug\Graphics in vb.pdb

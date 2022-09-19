@@ -29,7 +29,7 @@ Partial Class Form1
         Me.lineBtn = New System.Windows.Forms.Button()
         Me.polygonBtn = New System.Windows.Forms.Button()
         Me.fllPolygonBtn = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
+        Me.PanelClearBtn = New System.Windows.Forms.Button()
         Me.fillEllipseBtn = New System.Windows.Forms.Button()
         Me.fillCircleBtn = New System.Windows.Forms.Button()
         Me.fillRectBtn = New System.Windows.Forms.Button()
@@ -38,108 +38,119 @@ Partial Class Form1
         'myDrawingPanel
         '
         Me.myDrawingPanel.BackColor = System.Drawing.SystemColors.AppWorkspace
-        Me.myDrawingPanel.Location = New System.Drawing.Point(275, 12)
+        Me.myDrawingPanel.Location = New System.Drawing.Point(550, 23)
+        Me.myDrawingPanel.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.myDrawingPanel.Name = "myDrawingPanel"
-        Me.myDrawingPanel.Size = New System.Drawing.Size(401, 334)
+        Me.myDrawingPanel.Size = New System.Drawing.Size(802, 642)
         Me.myDrawingPanel.TabIndex = 0
         '
         'rectBtn
         '
-        Me.rectBtn.Location = New System.Drawing.Point(48, 23)
+        Me.rectBtn.Location = New System.Drawing.Point(96, 44)
+        Me.rectBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.rectBtn.Name = "rectBtn"
-        Me.rectBtn.Size = New System.Drawing.Size(175, 39)
+        Me.rectBtn.Size = New System.Drawing.Size(350, 75)
         Me.rectBtn.TabIndex = 1
         Me.rectBtn.Text = "Rectangle"
         Me.rectBtn.UseVisualStyleBackColor = True
         '
         'circleBtn
         '
-        Me.circleBtn.Location = New System.Drawing.Point(48, 95)
+        Me.circleBtn.Location = New System.Drawing.Point(96, 183)
+        Me.circleBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.circleBtn.Name = "circleBtn"
-        Me.circleBtn.Size = New System.Drawing.Size(175, 39)
+        Me.circleBtn.Size = New System.Drawing.Size(350, 75)
         Me.circleBtn.TabIndex = 2
         Me.circleBtn.Text = "Circle"
         Me.circleBtn.UseVisualStyleBackColor = True
         '
         'ellipseBtn
         '
-        Me.ellipseBtn.Location = New System.Drawing.Point(48, 155)
+        Me.ellipseBtn.Location = New System.Drawing.Point(96, 298)
+        Me.ellipseBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.ellipseBtn.Name = "ellipseBtn"
-        Me.ellipseBtn.Size = New System.Drawing.Size(175, 39)
+        Me.ellipseBtn.Size = New System.Drawing.Size(350, 75)
         Me.ellipseBtn.TabIndex = 3
         Me.ellipseBtn.Text = "Ellipse"
         Me.ellipseBtn.UseVisualStyleBackColor = True
         '
         'lineBtn
         '
-        Me.lineBtn.Location = New System.Drawing.Point(48, 219)
+        Me.lineBtn.Location = New System.Drawing.Point(96, 421)
+        Me.lineBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.lineBtn.Name = "lineBtn"
-        Me.lineBtn.Size = New System.Drawing.Size(175, 39)
+        Me.lineBtn.Size = New System.Drawing.Size(350, 75)
         Me.lineBtn.TabIndex = 4
         Me.lineBtn.Text = "Line"
         Me.lineBtn.UseVisualStyleBackColor = True
         '
         'polygonBtn
         '
-        Me.polygonBtn.Location = New System.Drawing.Point(48, 286)
+        Me.polygonBtn.Location = New System.Drawing.Point(96, 550)
+        Me.polygonBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.polygonBtn.Name = "polygonBtn"
-        Me.polygonBtn.Size = New System.Drawing.Size(175, 39)
+        Me.polygonBtn.Size = New System.Drawing.Size(350, 75)
         Me.polygonBtn.TabIndex = 5
         Me.polygonBtn.Text = "Polygon"
         Me.polygonBtn.UseVisualStyleBackColor = True
         '
         'fllPolygonBtn
         '
-        Me.fllPolygonBtn.Location = New System.Drawing.Point(748, 286)
+        Me.fllPolygonBtn.Location = New System.Drawing.Point(1496, 421)
+        Me.fllPolygonBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.fllPolygonBtn.Name = "fllPolygonBtn"
-        Me.fllPolygonBtn.Size = New System.Drawing.Size(175, 39)
+        Me.fllPolygonBtn.Size = New System.Drawing.Size(350, 75)
         Me.fllPolygonBtn.TabIndex = 10
         Me.fllPolygonBtn.Text = "Fill Polygon"
         Me.fllPolygonBtn.UseVisualStyleBackColor = True
         '
-        'Button2
+        'PanelClearBtn
         '
-        Me.Button2.Location = New System.Drawing.Point(748, 219)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(175, 39)
-        Me.Button2.TabIndex = 9
-        Me.Button2.Text = "Line"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.PanelClearBtn.Location = New System.Drawing.Point(1496, 539)
+        Me.PanelClearBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
+        Me.PanelClearBtn.Name = "PanelClearBtn"
+        Me.PanelClearBtn.Size = New System.Drawing.Size(350, 75)
+        Me.PanelClearBtn.TabIndex = 9
+        Me.PanelClearBtn.Text = "Clear Panel"
+        Me.PanelClearBtn.UseVisualStyleBackColor = True
         '
         'fillEllipseBtn
         '
-        Me.fillEllipseBtn.Location = New System.Drawing.Point(748, 155)
+        Me.fillEllipseBtn.Location = New System.Drawing.Point(1496, 298)
+        Me.fillEllipseBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.fillEllipseBtn.Name = "fillEllipseBtn"
-        Me.fillEllipseBtn.Size = New System.Drawing.Size(175, 39)
+        Me.fillEllipseBtn.Size = New System.Drawing.Size(350, 75)
         Me.fillEllipseBtn.TabIndex = 8
         Me.fillEllipseBtn.Text = "Fill Ellipse"
         Me.fillEllipseBtn.UseVisualStyleBackColor = True
         '
         'fillCircleBtn
         '
-        Me.fillCircleBtn.Location = New System.Drawing.Point(748, 95)
+        Me.fillCircleBtn.Location = New System.Drawing.Point(1496, 183)
+        Me.fillCircleBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.fillCircleBtn.Name = "fillCircleBtn"
-        Me.fillCircleBtn.Size = New System.Drawing.Size(175, 39)
+        Me.fillCircleBtn.Size = New System.Drawing.Size(350, 75)
         Me.fillCircleBtn.TabIndex = 7
         Me.fillCircleBtn.Text = "Fill Circle"
         Me.fillCircleBtn.UseVisualStyleBackColor = True
         '
         'fillRectBtn
         '
-        Me.fillRectBtn.Location = New System.Drawing.Point(748, 23)
+        Me.fillRectBtn.Location = New System.Drawing.Point(1496, 44)
+        Me.fillRectBtn.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.fillRectBtn.Name = "fillRectBtn"
-        Me.fillRectBtn.Size = New System.Drawing.Size(175, 39)
+        Me.fillRectBtn.Size = New System.Drawing.Size(350, 75)
         Me.fillRectBtn.TabIndex = 6
         Me.fillRectBtn.Text = "Fill Rectangle"
         Me.fillRectBtn.UseVisualStyleBackColor = True
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(986, 362)
+        Me.ClientSize = New System.Drawing.Size(1951, 696)
         Me.Controls.Add(Me.fllPolygonBtn)
-        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.PanelClearBtn)
         Me.Controls.Add(Me.fillEllipseBtn)
         Me.Controls.Add(Me.fillCircleBtn)
         Me.Controls.Add(Me.fillRectBtn)
@@ -149,6 +160,7 @@ Partial Class Form1
         Me.Controls.Add(Me.circleBtn)
         Me.Controls.Add(Me.rectBtn)
         Me.Controls.Add(Me.myDrawingPanel)
+        Me.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
@@ -162,7 +174,7 @@ Partial Class Form1
     Friend WithEvents lineBtn As Button
     Friend WithEvents polygonBtn As Button
     Friend WithEvents fllPolygonBtn As Button
-    Friend WithEvents Button2 As Button
+    Friend WithEvents PanelClearBtn As Button
     Friend WithEvents fillEllipseBtn As Button
     Friend WithEvents fillCircleBtn As Button
     Friend WithEvents fillRectBtn As Button

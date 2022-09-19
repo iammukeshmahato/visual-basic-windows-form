@@ -68,4 +68,8 @@ Public Class Form1
         points(2) = New Point(100, 100)
         g.FillPolygon(Brushes.Red, points)
     End Sub
+
+    Private Sub PanelClearBtn_Click(sender As Object, e As EventArgs) Handles PanelClearBtn.Click
+        myDrawingPanel.Refresh()
+    End Sub
 End Class
